@@ -1,0 +1,21 @@
+.language {
+  margin: 10px;
+}
+
+.active {
+  background-color: transparent;
+  border-radius: 12px;
+  border: #0284c7 solid;
+  color: #0284c7;
+  padding-left: 10px;
+  padding-right: 10px;
+  cursor: pointer;
+}
+
+.language {
+  border: none;
+  outline: none;
+  background-color: transparent;
+  font-weight: bold;
+  cursor: pointer;
+}

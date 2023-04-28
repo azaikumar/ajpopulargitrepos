@@ -1,0 +1,41 @@
+.repo-img {
+  width: 150px;
+}
+
+.stars-img {
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+}
+
+.stars-folks-issues-container {
+  display: flex;
+  align-items: center;
+}
+
+.repository-item-container {
+  display: flex;
+  flex-direction: column;
+  min-width: 20vw;
+  min-height: 30vw;
+  justify-content: center;
+  align-items: center;
+  background-color: #f8f8ff;
+  margin: 10px;
+  border-radius: 12px;
+}
+
+.stats {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.name {
+  color: #e73959;
+  font-weight: bold;
+}
+
+.stars-count {
+  color: ;
+}
